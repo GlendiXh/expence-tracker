@@ -3,7 +3,7 @@
 A full-stack expense tracking web application built with Node.js, Express, and SQLite.
 
 ## Live Demo
-[View Live App]([https://expence-tracker-xxxx.onrender.com](https://expence-tracker-nium.onrender.com/))
+[View Live App](https://expence-tracker-nium.onrender.com)
 
 ## Features
 - User authentication (register & login)
